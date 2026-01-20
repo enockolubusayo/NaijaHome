@@ -1,0 +1,8 @@
+{
+  "name": "NaijaHome - Real Estate Ecosystem",
+  "description": "A comprehensive real estate platform for the Nigerian market connecting landlords, tenants, and agents with AI-powered insights and secure payments.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
